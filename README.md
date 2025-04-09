@@ -31,34 +31,31 @@ High Priestessのカードを用い、静寂の中で「選択する意志」を
 
 ## 🔮 Ritual
 
-> The card is placed at the center of the temple—
+> **The card is placed at the center of the temple—**
 > A veil of silence spreads like moonlight on black water.
->
 > I gaze into the face of the High Priestess,
 > She who keeps the threshold not of time, but of knowing.
 > She does not speak—
 > for truth needs no voice.
 >
-> With each breath, I descend.
+> **With each breath, I descend.**
 > Down through layers of thought,
 > past the masks of the everyday self,
 > until I come to the Crossroads Within.
 >
-> There, I hear three voices rise:
+> **There, I hear three voices rise:**
 > One of fear—"Stay where it's safe."
 > One of habit—"Do what you always do."
 > One of truth—silent, yet certain.
 >
-> I listen not with ears, but with soul.
+> **I listen not with ears, but with soul.**
 > And I choose the voice of truth.
->
 > The Crossroads shifts.
 > The path is no longer hidden.
 > I walk it with open eyes.
 >
 > （カードを神殿の中心に置く。
 > 静けさのヴェールが、黒い水面に差し込む月光のように広がる。
->
 > 私は女教皇の顔を見つめる。
 > 彼女は「知ること」の境界を守る存在。
 > 彼女は語らない——
@@ -76,7 +73,6 @@ High Priestessのカードを用い、静寂の中で「選択する意志」を
 >
 > 私は耳ではなく、魂でそれを聞く。
 > そして、真実の声を選ぶ。
->
 > 交差点が変わる。
 > 隠されていた道が現れる。
 > 私はその道を、目を開いて歩き始める。）
