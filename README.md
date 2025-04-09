@@ -31,12 +31,11 @@ High Priestessのカードを用い、静寂の中で「選択する意志」を
 
 ## 🔮 Ritual
 
-> **The card is placed at the center of the temple—**
-> A veil of silence spreads like moonlight on black water.
-> I gaze into the face of the High Priestess,
-> She who keeps the threshold not of time, but of knowing.
-> She does not speak—
-> for truth needs no voice.　　
+> **The card is placed at the center of the temple** —  
+> A veil of silence spreads like moonlight on black water.  
+> I gaze into the face of the High Priestess,  
+> She who keeps the threshold not of time, but of knowing.  
+> She does not speak — for truth needs no voice.
 >
 > **With each breath, I descend.**
 > Down through layers of thought,
